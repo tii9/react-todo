@@ -1,0 +1,9 @@
+[
+    { "id": 1, "task": "turu", "isDone": true },
+    { "id": 2, "task": "sare", "isDone": true },
+    { "id": 3, "task": "ngoding", "isDone": false },
+    { "id": 4, "task": "ngopi", "isDone": true },
+    { "id": 5, "task": "makan", "isDone": false },
+    { "id": 6, "task": "scroll tiktok", "isDone": false },
+    { "id": 7, "task": "nonton anime", "isDone": true }
+]
