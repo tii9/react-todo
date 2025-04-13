@@ -27,7 +27,7 @@ const dateNow = () => {
     const d = new Date();
     const day = dayInWeek[d.getDay()];
     const month = monthInYear[d.getMonth()];
-    let date = d.getDay();
+    let date = d.getDate();
 
     if (date == 1) date = `${date}st`;
     else if (date == 2) date = `${date}nd`;
