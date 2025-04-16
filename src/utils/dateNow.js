@@ -31,6 +31,7 @@ const dateNow = () => {
 
     if (date == 1) date = `${date}st`;
     else if (date == 2) date = `${date}nd`;
+    else if (date == 3) date = `${date}rd`;
     else date = `${date}th`;
 
     return { day, month, date };
